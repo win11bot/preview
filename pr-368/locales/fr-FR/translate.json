@@ -1,0 +1,11 @@
+{
+  "about.opensource": "win11React est un projet open source réalisé dans l'espoir de reproduire l'expérience de bureau Windows 11 sur le web, en utilisant des technologies web standard comme React, CSS, et JavaScript.",
+  "about.notmicrosoft": "Ce projet n'est en tout cas pas affilié à Microsoft et ne doit pas être confondu avec le système d'exploitation ou les produits de Microsoft.",
+  "about.Creative-Commons": "Créative-Commons",
+  "about.title": "À propos de",
+  "about.licensed": "Ce projet est sous licence",
+  "about.alsonot": "Ce n'est pas non plus",
+  "about.microsoftcopywrite": "Microsoft, Windows et autres produits démontrés dans ce projet sont des marques déposées du groupe de sociétés Microsoft",
+  "about.understand": "OK, je comprends",
+  "about.contact": "contact"
+}
