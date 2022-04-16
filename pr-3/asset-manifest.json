@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://preview.pr.blueedge.me/pr-3/static/css/main.2ad667ae.css",
-    "main.js": "https://preview.pr.blueedge.me/pr-3/static/js/main.a93bd0de.js",
+    "main.js": "https://preview.pr.blueedge.me/pr-3/static/js/main.546b8e30.js",
     "static/media/spotify.ttf": "https://preview.pr.blueedge.me/pr-3/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
     "static/media/SettingsIcons.woff2": "https://preview.pr.blueedge.me/pr-3/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
     "static/media/spotify.woff2": "https://preview.pr.blueedge.me/pr-3/static/media/spotify.add3c9225e28bf644f29.woff2",
     "static/media/server.jpg": "https://preview.pr.blueedge.me/pr-3/static/media/server.99e1fcd21a4a9a3b736f.jpg",
     "index.html": "https://preview.pr.blueedge.me/pr-3/index.html",
     "main.2ad667ae.css.map": "https://preview.pr.blueedge.me/pr-3/static/css/main.2ad667ae.css.map",
-    "main.a93bd0de.js.map": "https://preview.pr.blueedge.me/pr-3/static/js/main.a93bd0de.js.map"
+    "main.546b8e30.js.map": "https://preview.pr.blueedge.me/pr-3/static/js/main.546b8e30.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad667ae.css",
-    "static/js/main.a93bd0de.js"
+    "static/js/main.546b8e30.js"
   ]
 }
