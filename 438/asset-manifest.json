@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://preview.win11react.com/438/static/css/main.ac94e964.css",
-    "main.js": "https://preview.win11react.com/438/static/js/main.38b03961.js",
+    "main.css": "https://preview.win11react.com/438/static/css/main.2891bfaf.css",
+    "main.js": "https://preview.win11react.com/438/static/js/main.295e0977.js",
     "static/media/spotify.ttf": "https://preview.win11react.com/438/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
     "static/media/SettingsIcons.woff2": "https://preview.win11react.com/438/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
     "static/media/spotify.woff2": "https://preview.win11react.com/438/static/media/spotify.add3c9225e28bf644f29.woff2",
     "index.html": "https://preview.win11react.com/438/index.html",
-    "main.ac94e964.css.map": "https://preview.win11react.com/438/static/css/main.ac94e964.css.map",
-    "main.38b03961.js.map": "https://preview.win11react.com/438/static/js/main.38b03961.js.map"
+    "main.2891bfaf.css.map": "https://preview.win11react.com/438/static/css/main.2891bfaf.css.map",
+    "main.295e0977.js.map": "https://preview.win11react.com/438/static/js/main.295e0977.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac94e964.css",
-    "static/js/main.38b03961.js"
+    "static/css/main.2891bfaf.css",
+    "static/js/main.295e0977.js"
   ]
 }
