@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://preview.pr.blueedge.me/30/static/css/main.9330cb39.css",
+    "main.js": "https://preview.pr.blueedge.me/30/static/js/main.a5cb1309.js",
+    "static/media/spotify.ttf": "https://preview.pr.blueedge.me/30/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
+    "static/media/SettingsIcons.woff2": "https://preview.pr.blueedge.me/30/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
+    "static/media/spotify.woff2": "https://preview.pr.blueedge.me/30/static/media/spotify.add3c9225e28bf644f29.woff2",
+    "index.html": "https://preview.pr.blueedge.me/30/index.html",
+    "main.9330cb39.css.map": "https://preview.pr.blueedge.me/30/static/css/main.9330cb39.css.map",
+    "main.a5cb1309.js.map": "https://preview.pr.blueedge.me/30/static/js/main.a5cb1309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9330cb39.css",
+    "static/js/main.a5cb1309.js"
+  ]
+}
